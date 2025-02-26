@@ -1,0 +1,4 @@
+baseURL = 'https://swchains.github.io/'
+languageCode = 'en-us'
+title = 'Sustainable Software Supply Chains'
+theme = 'ananke'
