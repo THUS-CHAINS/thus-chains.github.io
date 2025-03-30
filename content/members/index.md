@@ -2,6 +2,7 @@
 title: "members"
 description: "Meet the researchers in our group."
 menu: "main"
+url: "/members/"
 ---
 
 
